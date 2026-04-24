@@ -28,7 +28,7 @@ permno = company_map[ticker]
 
 # SQL query
 query = f"""
-select date, permno, prc, ret
+select date, permno, prc, ret,vol, shrout
 from crsp.dsf
 where permno = {permno}
 and date between '2020-01-01' and '2024-01-01'
