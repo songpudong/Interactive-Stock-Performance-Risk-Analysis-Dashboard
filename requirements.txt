@@ -6,4 +6,5 @@ wrds
 statsmodels
 sqlalchemy
 psycopg2-binary
-jupyter notebook
+jupyter 
+notebook
