@@ -140,8 +140,7 @@ GitHub Repository:
 https://github.com/songpudong/Interactive-Stock-Performance-Risk-Analysis-Dashboard
 
 Demo Video:
-
-[Your Demo Video Link Here]
+https://video.xjtlu.edu.cn/Mediasite/Play/3aa015bd26aa4505a8c01ee73f346ca01d
 
 ---
 
